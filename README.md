@@ -1,5 +1,6 @@
-### Hi there 👋
+We write code. 
 
+We know that software can't be destroyed and that a widely dispersed system can't be shut down.
 <!--
 **rootwarp/rootwarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
